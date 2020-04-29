@@ -4,12 +4,12 @@ from . import __version__ as app_version
 
 app_name = "recod_erpnext_design"
 app_title = "ERPNext Recod"
-app_publisher = "amionv99@gmail.com"
+app_publisher = "Monogramm"
 app_description = "Application for beautiful design of Print Format doctype"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "amionv99@gmail.com"
-app_license = "APGLv3"
+app_email = "opensource@monogramm.io"
+app_license = "AGPL v3"
 
 # Includes in <head>
 # ------------------
