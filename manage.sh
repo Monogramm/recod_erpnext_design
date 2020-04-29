@@ -49,7 +49,7 @@ logs() {
 down() {
     log 'Stopping and removing container(s) and data...'
     dc "${1}" down ${@:2}
-    rm -rf "${ERPNEXT_HOME:-/srv/erpnext_template/frappe}"/*
+    rm -rf "${ERPNEXT_HOME:-/srv/recod_erpnext_design/frappe}"/*
 }
 
 console() {
@@ -57,11 +57,11 @@ console() {
 }
 
 ## TODO Add function to initialize from template
-#   - Replace all occurences of `erpnext_template` and `ERPNext Template` in all files
-#   - Rename all directories `erpnext_template`
+#   - Replace all occurences of `recod_erpnext_design` and `ERPNext Template` in all files
+#   - Rename all directories `recod_erpnext_design`
 
 ## TODO Add function to make release X.Y.Z
-#   - Update version in ./erpnext_template/__init__.py
+#   - Update version in ./recod_erpnext_design/__init__.py
 #   - Update version in ./.gitmoji-changelogrc
 #   - Generate Changelog for version `gitmoji-changelog --preset generic`
 #   - Add and commit to git modifications with message `:bookmark: Release X.Y.Z`

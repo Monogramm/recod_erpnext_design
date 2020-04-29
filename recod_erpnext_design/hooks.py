@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 
 
 app_name = "recod_erpnext_design"
-app_title = "ERPNext Template"
+app_title = "ERPNext Recod"
 app_publisher = "Monogramm"
 app_description = "TODO_APP_DESCRIPTION"
 app_icon = "octicon octicon-file-directory"

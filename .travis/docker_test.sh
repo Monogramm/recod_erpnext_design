@@ -49,7 +49,7 @@ echo 'Docker tests successful'
 # https://frappe.io/docs/user/en/testing
 ################################################################################
 
-FRAPPE_APP_TO_TEST=erpnext_template
+FRAPPE_APP_TO_TEST=recod_erpnext_design
 
 echo "Preparing Frappe application '${FRAPPE_APP_TO_TEST}' tests..."
 
