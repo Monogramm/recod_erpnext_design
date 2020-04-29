@@ -1,19 +1,15 @@
 # -*- coding: utf-8 -*-
-# Copyright (c) 2020, Monogramm and Contributors
-# See license.txt
-"""Configuration for hooks."""
-
 from __future__ import unicode_literals
-
+from . import __version__ as app_version
 
 app_name = "recod_erpnext_design"
 app_title = "ERPNext Recod"
-app_publisher = "Monogramm"
-app_description = "TODO_APP_DESCRIPTION"
+app_publisher = "amionv99@gmail.com"
+app_description = "Application for beautiful design of Print Format doctype"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "opensource@monogramm.io"
-app_license = "AGPL v3"
+app_email = "amionv99@gmail.com"
+app_license = "APGLv3"
 
 # Includes in <head>
 # ------------------

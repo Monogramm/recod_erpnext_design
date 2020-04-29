@@ -1,23 +1,11 @@
-# -*- coding: utf-8 -*-
-# Copyright (c) 2020, Monogramm and Contributors
-# See license.txt
-"""Configuration for docs."""
+"""
+Configuration for docs
+"""
 
-from __future__ import unicode_literals
-
-
-source_link = "https://github.com/Monogramm/recod_erpnext_design"
-docs_base_url = "https://monogramm.github.io/recod_erpnext_design"
-headline = "TODO_APP_DESCRIPTION"
-sub_heading = "TODO_APP_USAGE"
-
+# source_link = "https://github.com/[org_name]/recod_erpnext_design"
+# docs_base_url = "https://[org_name].github.io/recod_erpnext_design"
+# headline = "App that does everything"
+# sub_heading = "Yes, you got that right the first time, everything"
 
 def get_context(context):
-    """Returns the application documentation context.
-
-     :param context: application documentation context"""
-    context.brand_html = "ERPNext Template"
-    context.source_link = source_link
-    context.docs_base_url = docs_base_url
-    context.headline = headline
-    context.sub_heading = sub_heading
+	context.brand_html = "ERPNext Recod"
