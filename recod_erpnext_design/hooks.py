@@ -6,7 +6,7 @@
 from __future__ import unicode_literals
 
 
-app_name = "erpnext_template"
+app_name = "recod_erpnext_design"
 app_title = "ERPNext Template"
 app_publisher = "Monogramm"
 app_description = "TODO_APP_DESCRIPTION"
@@ -19,12 +19,12 @@ app_license = "AGPL v3"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/erpnext_template/css/erpnext_template.css"
-# app_include_js = "/assets/erpnext_template/js/erpnext_template.js"
+# app_include_css = "/assets/recod_erpnext_design/css/recod_erpnext_design.css"
+# app_include_js = "/assets/recod_erpnext_design/js/recod_erpnext_design.js"
 
 # include js, css files in header of web template
-# web_include_css = "/assets/erpnext_template/css/erpnext_template.css"
-# web_include_js = "/assets/erpnext_template/js/erpnext_template.js"
+# web_include_css = "/assets/recod_erpnext_design/css/recod_erpnext_design.css"
+# web_include_js = "/assets/recod_erpnext_design/js/recod_erpnext_design.js"
 
 # include js in page
 # page_js = {"page" : "public/js/file.js"}
@@ -47,7 +47,7 @@ app_license = "AGPL v3"
 # }
 
 # Website user home page (by function)
-# get_website_user_home_page = "erpnext_template.utils.get_home_page"
+# get_website_user_home_page = "recod_erpnext_design.utils.get_home_page"
 
 # Generators
 # ----------
@@ -58,14 +58,14 @@ app_license = "AGPL v3"
 # Installation
 # ------------
 
-# before_install = "erpnext_template.install.before_install"
-# after_install = "erpnext_template.install.after_install"
+# before_install = "recod_erpnext_design.install.before_install"
+# after_install = "recod_erpnext_design.install.after_install"
 
 # Desk Notifications
 # ------------------
 # See frappe.core.notifications.get_notification_config
 
-# notification_config = "erpnext_template.notifications.get_notification_config"
+# notification_config = "recod_erpnext_design.notifications.get_notification_config"
 
 # Permissions
 # -----------
@@ -96,31 +96,31 @@ app_license = "AGPL v3"
 
 # scheduler_events = {
 # 	"all": [
-# 		"erpnext_template.tasks.all"
+# 		"recod_erpnext_design.tasks.all"
 # 	],
 # 	"daily": [
-# 		"erpnext_template.tasks.daily"
+# 		"recod_erpnext_design.tasks.daily"
 # 	],
 # 	"hourly": [
-# 		"erpnext_template.tasks.hourly"
+# 		"recod_erpnext_design.tasks.hourly"
 # 	],
 # 	"weekly": [
-# 		"erpnext_template.tasks.weekly"
+# 		"recod_erpnext_design.tasks.weekly"
 # 	]
 # 	"monthly": [
-# 		"erpnext_template.tasks.monthly"
+# 		"recod_erpnext_design.tasks.monthly"
 # 	]
 # }
 
 # Testing
 # -------
 
-# before_tests = "erpnext_template.install.before_tests"
+# before_tests = "recod_erpnext_design.install.before_tests"
 
 # Overriding Whitelisted Methods
 # ------------------------------
 #
 # override_whitelisted_methods = {
-# 	"frappe.desk.doctype.event.event.get_events": "erpnext_template.event.get_events"
+# 	"frappe.desk.doctype.event.event.get_events": "recod_erpnext_design.event.get_events"
 # }
 

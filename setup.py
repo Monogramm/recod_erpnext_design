@@ -9,12 +9,12 @@ with open('requirements.txt') as f:
 # get version from __version__ variable in erpnext_template/__init__.py
 _version_re = re.compile(r'__version__\s+=\s+(.*)')
 
-with open('erpnext_template/__init__.py', 'rb') as f:
+with open('recod_erpnext_design/__init__.py', 'rb') as f:
     version = str(ast.literal_eval(_version_re.search(
         f.read().decode('utf-8')).group(1)))
 
 setup(
-    name='erpnext_template',
+    name='recod_erpnext_design',
     version=version,
     description='TODO_APP_DESCRIPTION',
     author='Monogramm',
