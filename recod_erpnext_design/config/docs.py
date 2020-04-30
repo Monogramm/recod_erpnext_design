@@ -6,8 +6,8 @@
 from __future__ import unicode_literals
 
 
-source_link = "https://github.com/Monogramm/erpnext_template"
-docs_base_url = "https://monogramm.github.io/erpnext_template"
+source_link = "https://github.com/Monogramm/recod_erpnext_design"
+docs_base_url = "https://monogramm.github.io/recod_erpnext_design"
 headline = "TODO_APP_DESCRIPTION"
 sub_heading = "TODO_APP_USAGE"
 
@@ -16,7 +16,7 @@ def get_context(context):
     """Returns the application documentation context.
 
      :param context: application documentation context"""
-    context.brand_html = "ERPNext Template"
+    context.brand_html = "ERPNext Recod"
     context.source_link = source_link
     context.docs_base_url = docs_base_url
     context.headline = headline
