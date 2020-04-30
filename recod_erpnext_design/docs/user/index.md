@@ -1,6 +1,6 @@
-# **ERPNext Template** User Guide
+# **ERPNext Recod** User Guide
 
-This is the User Guide for **ERPNext Template**.
+This is the User Guide for **ERPNext Recod**.
 
 ## Summary
 
