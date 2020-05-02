@@ -16,7 +16,7 @@ with open('recod_erpnext_design/__init__.py', 'rb') as f:
 setup(
     name='recod_erpnext_design',
     version=version,
-    description='TODO_APP_DESCRIPTION',
+    description='ERPNext application to provide new sample print formats and overall design for ERPNext.',
     author='Monogramm',
     author_email='opensource@monogramm.io',
     packages=find_packages(),

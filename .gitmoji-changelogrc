@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "recod_erpnext_design",
-    "description": "TODO_APP_DESCRIPTION",
+    "description": "ERPNext application to provide new sample print formats and overall design for ERPNext.",
     "version": "0.0.1"
   }
 }

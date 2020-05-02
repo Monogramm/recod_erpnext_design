@@ -12,10 +12,10 @@ def get_data():
     """Returns the application desktop icons configuration."""
     return [
         {
-            "module_name": "ERPNext Recod",
+            "module_name": "Recod ERPNext Design",
             "color": "grey",
             "icon": "octicon octicon-file-directory",
             "type": "module",
-            "label": _("ERPNext Recod")
+            "label": _("Recod ERPNext Design")
         }
     ]

@@ -7,9 +7,9 @@ from __future__ import unicode_literals
 
 
 app_name = "recod_erpnext_design"
-app_title = "ERPNext Recod"
+app_title = "Recod ERPNext Design"
 app_publisher = "Monogramm"
-app_description = "TODO_APP_DESCRIPTION"
+app_description = "ERPNext application to provide new sample print formats and overall design for ERPNext."
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "opensource@monogramm.io"
