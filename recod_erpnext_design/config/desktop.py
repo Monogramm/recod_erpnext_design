@@ -14,7 +14,7 @@ def get_data():
         {
             "module_name": "Recod ERPNext Design",
             "color": "grey",
-            "icon": "octicon octicon-file-directory",
+            "icon": "octicon octicon-paintcan",
             "type": "module",
             "label": _("Recod ERPNext Design")
         }
