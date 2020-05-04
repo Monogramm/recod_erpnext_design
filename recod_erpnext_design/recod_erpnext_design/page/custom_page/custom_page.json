@@ -1,0 +1,24 @@
+{
+ "content": null,
+ "creation": "2020-05-04 08:49:17.001847",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2020-05-04 10:21:44.285599",
+ "modified_by": "Administrator",
+ "module": "Recod ERPNext Design",
+ "name": "custom-page",
+ "owner": "Administrator",
+ "page_name": "custom-page",
+ "restrict_to_domain": "Non Profit",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Custom Title"
+}
