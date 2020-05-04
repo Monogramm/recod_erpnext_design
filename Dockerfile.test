@@ -1,4 +1,4 @@
-FROM docker-erpnext:erpnext_template-dev
+FROM docker-erpnext:recod_erpnext_design-dev
 
 ADD .travis/docker_test.sh /docker_test.sh
 
