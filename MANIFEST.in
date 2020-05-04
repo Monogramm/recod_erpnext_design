@@ -15,4 +15,4 @@ recursive-include recod_erpnext_design *.png
 recursive-include recod_erpnext_design *.py
 recursive-include recod_erpnext_design *.svg
 recursive-include recod_erpnext_design *.txt
-recursive-exclude erpnext_template *.pyc
+recursive-exclude recod_erpnext *.pyc
