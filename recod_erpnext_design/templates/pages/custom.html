@@ -1,3 +1,6 @@
 {% extends "templates/web.html" %}
-
 {% block title %}{{ _("Custom page") }}{% endblock %}
+{{ context.text }}
+{% block page_content %}
+{{ text }}
+{% endblock %}
