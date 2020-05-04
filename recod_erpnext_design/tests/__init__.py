@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-ERPNext Recod app tests.
+Recod ERPNext Design app tests.
 """
 
 from __future__ import unicode_literals

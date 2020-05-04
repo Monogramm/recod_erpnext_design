@@ -1,6 +1,6 @@
-# **ERPNext Recod** Documentation
+# **Recod ERPNext Design** Documentation
 
-This is the Documentation for **ERPNext Recod**.
+This is the Documentation for **Recod ERPNext Design**.
 
 ## Source Code
 

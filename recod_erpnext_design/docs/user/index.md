@@ -1,6 +1,6 @@
-# **ERPNext Recod** User Guide
+# **Recod ERPNext Design** User Guide
 
-This is the User Guide for **ERPNext Recod**.
+This is the User Guide for **Recod ERPNext Design**.
 
 ## Summary
 

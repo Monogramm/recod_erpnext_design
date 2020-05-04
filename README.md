@@ -11,19 +11,9 @@
 [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Monogramm/recod_erpnext_design/?ref=repository-badge)
 -->
 
-<!--
+## Recod ERPNext Design
 
-Template variables to replace in ALL files:
-* ERPNext Recod: Name of the application
-* recod_erpnext_design: GitHub slug of the original application
-* TODO_APP_DESCRIPTION: Uppercase value of the GitHub slug
-* TODO_APP_USAGE: Application description
-
--->
-
-## ERPNext Recod
-
-> :alembic: TODO_APP_DESCRIPTION
+> :alembic: ERPNext application to provide new sample print formats and overall design for ERPNext.
 
 ## :blue_book: Docs
 
@@ -64,7 +54,7 @@ When installing Frappe app, the following python requirements will be installed:
 
 How to use this application:
 
-TODO_APP_USAGE
+Use Recod print formats, website themes, etc...
 
 <!--
 [TODO] If project is deployed to DockerHub:

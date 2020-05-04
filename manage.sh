@@ -57,7 +57,7 @@ console() {
 }
 
 ## TODO Add function to initialize from template
-#   - Replace all occurences of `recod_erpnext_design` and `ERPNext Recod` in all files
+#   - Replace all occurences of `recod_erpnext_design` and `Recod ERPNext Design` in all files
 #   - Rename all directories `recod_erpnext_design`
 
 ## TODO Add function to make release X.Y.Z
