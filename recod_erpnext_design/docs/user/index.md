@@ -6,6 +6,28 @@ This is the User Guide for **Recod ERPNext Design**.
 
 **TODO**
 
+## Recod Print Formats
+
+### Recod Sales Invoice
+![Recod Sales Invoice](assets/recod_sales_invoice.png "Recod Sales Invoice")
+
+### Recod Purchase Invoice
+![Recod Purchase Invoice](assets/recod_purchase_invoice.png "Recod Purchase Invoice")
+
+### Recod Quotation
+![Recod Quotation](assets/recod_quotation.png "Recod Quotation")
+
+### Recod Salary Slip
+![Recod Salary Slip](assets/recod_salary_slip.png "Recod Salary Slip")
+
+## Recod Website
+
+### Recod Dark Theme
+![Recod Dark Theme](assets/dark_theme.png "Recod Dark Theme")
+
+### Recod Light Theme
+![Recod Light Theme](assets/light_theme.png "Recod Light Theme")
+
 ## License
 
 Copyright © 2020 [Monogramm](https://github.com/Monogramm).<br />
