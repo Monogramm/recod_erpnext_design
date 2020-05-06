@@ -10,7 +10,6 @@ locale
 dist/
 build/
 recod_erpnext_design/docs/current
-recod_erpnext_design/www/
 .vscode
 .idea/
 *.iml
@@ -194,3 +193,5 @@ typings/
 # Frappe
 public/
 services/
+
+recod_erpnext_design/www/
