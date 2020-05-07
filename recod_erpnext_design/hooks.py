@@ -17,7 +17,7 @@ app_license = "AGPL v3"
 
 # Includes in <head>
 # ------------------
-fixtures = ["Website Theme"]
+# fixtures = [""]
 
 # include js, css files in header of desk.html
 # app_include_css = "/assets/recod_erpnext_design/css/recod_erpnext_design.css"
