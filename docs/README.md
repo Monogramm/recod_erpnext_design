@@ -1,4 +1,4 @@
-# **recod_erpnext_design** Documentation site
+# **Recod ERPNext Design** Documentation site
 
 This directory contains the code for the **Recod ERPNext Design** docs site, [monogramm.github.io/recod_erpnext_design](https://monogramm.github.io/recod_erpnext_design).
 
