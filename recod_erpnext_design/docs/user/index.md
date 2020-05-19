@@ -10,17 +10,20 @@ To use them, you can simply select one when you wish to print or display the PDF
 You can also go to the "_Print Format_" and make it the default for a kind of document.
 
 ### Recod Sales Invoice
+
 ![Recod Sales Invoice](./assets/recod_print_format_sales_invoice.png "Recod Sales Invoice")
 
 ### Recod Purchase Invoice
+
 ![Recod Purchase Invoice](./assets/recod_print_format_purchase_invoice.png "Recod Purchase Invoice")
 
 ### Recod Quotation
+
 ![Recod Quotation](./assets/recod_print_format_quotation.png "Recod Quotation")
 
 ### Recod Salary Slip
-![Recod Salary Slip](./assets/recod_print_format_salary_slip.png "Recod Salary Slip")
 
+![Recod Salary Slip](./assets/recod_print_format_salary_slip.png "Recod Salary Slip")
 
 ## Recod Website
 
@@ -28,11 +31,12 @@ You can also go to the "_Print Format_" and make it the default for a kind of do
 To use them, go to "_Website Settings_" and apply one of the available themes.
 
 ### Recod Light Theme
+
 ![Recod Website Light Theme](./assets/recod_website_theme_light.jpg "Recod Light Theme")
 
 ### Recod Dark Theme
-![Recod Website Dark Theme](./assets/recod_website_theme_dark.jpg "Recod Dark Theme Header")
 
+![Recod Website Dark Theme](./assets/recod_website_theme_dark.jpg "Recod Dark Theme Header")
 
 ## License
 
