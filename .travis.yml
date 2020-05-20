@@ -15,12 +15,12 @@ before_install:
   - export TAG=travis
   - export VCS_REF=`git rev-parse --short HEAD`
   - export BUILD_DATE=`date -u +"%Y-%m-%dT%H:%M:%SZ"`
-  - export IMAGE_NAME=docker-erpnext-template
+  - export IMAGE_NAME=docker-recod-erpnext-design
   - export home=$(pwd)
   - export travis_dir="${home}/.travis"
   - export BUILD_BRANCH=${TRAVIS_PULL_REQUEST_BRANCH:-${TRAVIS_BRANCH}}
   - export BUILD_URL=https://github.com/${TRAVIS_PULL_REQUEST_SLUG:-${TRAVIS_REPO_SLUG}}
-  - export BUILD_APP=erpnext_template
+  - export BUILD_APP=recod_erpnext_design
 
 install:
   - echo "Changing to travis test directory ($travis_dir)"
@@ -78,7 +78,7 @@ after_script:
   - sudo pip install python-coveralls
   # Create same directory path as docker test execution
   - sudo mkdir -p '/home/frappe/frappe-bench/apps'
-  - sudo ln -sf "$home" '/home/frappe/frappe-bench/apps/erpnext_template'
+  - sudo ln -sf "$home" '/home/frappe/frappe-bench/apps/recod_erpnext_design'
   # Copy and convert coverage to XML format
   - cp '/srv/erpnext/frappe/sites/.coverage' .coverage
   - coverage xml
@@ -100,11 +100,16 @@ jobs:
     - env: VERSION=develop VARIANT=debian DATABASE=postgres
     - env: VERSION=develop VARIANT=debian-slim DATABASE=mariadb
     - env: VERSION=develop VARIANT=debian-slim DATABASE=postgres
-    - env: VERSION=12 VARIANT=alpine DATABASE=postgres
-    - env: VERSION=12 VARIANT=debian DATABASE=postgres
-    - env: VERSION=12 VARIANT=debian-slim DATABASE=postgres
-    # FIXME For some reason, apt-get missing in base image!!
+    - env: VERSION=13 VARIANT=debian-slim DATABASE=postgres
+    - env: VERSION=13 VARIANT=alpine DATABASE=mariadb
+    - env: VERSION=13 VARIANT=alpine DATABASE=postgres
+    - env: VERSION=13 VARIANT=debian DATABASE=mariadb
+    - env: VERSION=13 VARIANT=debian DATABASE=postgres
+    - env: VERSION=13 VARIANT=debian-slim DATABASE=mariadb
+    - env: VERSION=13 VARIANT=debian-slim DATABASE=postgres
+    - env: VERSION=10 VARIANT=alpine DATABASE=mariadb
     - env: VERSION=10 VARIANT=debian DATABASE=mariadb
+    - env: VERSION=10 VARIANT=debian-slim DATABASE=mariadb
 
 env: # Environments
   - VERSION=develop VARIANT=alpine DATABASE=mariadb
@@ -124,4 +129,10 @@ env: # Environments
   - VERSION=12 VARIANT=debian DATABASE=mariadb
   - VERSION=12 VARIANT=debian DATABASE=postgres
   - VERSION=12 VARIANT=debian-slim DATABASE=mariadb
-  - VERSION=12 VARIANT=debian-slim DATABASE=postgres
+  - VERSION=13 VARIANT=debian-slim DATABASE=postgres
+  - VERSION=13 VARIANT=alpine DATABASE=mariadb
+  - VERSION=13 VARIANT=alpine DATABASE=postgres
+  - VERSION=13 VARIANT=debian DATABASE=mariadb
+  - VERSION=13 VARIANT=debian DATABASE=postgres
+  - VERSION=13 VARIANT=debian-slim DATABASE=mariadb
+  - VERSION=13 VARIANT=debian-slim DATABASE=postgres

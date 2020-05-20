@@ -4,7 +4,7 @@
 
 import unittest
 
-from erpnext_template.config.docs import source_link, docs_base_url, headline, sub_heading, get_context
+from recod_erpnext_design.config.docs import source_link, docs_base_url, headline, sub_heading, get_context
 
 
 class TestDocs(unittest.TestCase):

@@ -1,6 +1,6 @@
 {
-  "name": "erpnext_template",
-  "description": "__app_description__",
+  "name": "recod_erpnext_design",
+  "description": "ERPNext application to provide new sample print formats and overall design for ERPNext.",
   "author": "Monogramm",
   "license": "AGPL",
   "dependencies": {
