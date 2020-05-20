@@ -2,6 +2,8 @@
 
 This is the User Guide for **Recod ERPNext Design**.
 
+**Recod ERPNext Design** is an ERPNext application to provide new sample print formats and overall design for ERPNext.
+
 ## Recod Print Formats
 
 **Recod ERPNext Design** bundles several print formats to complete Frappe / ERPNext default ones.

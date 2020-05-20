@@ -1,10 +1,20 @@
 # **Recod ERPNext Design** Documentation site
 
-This directory contains the code for the **Recod ERPNext Design** docs site, [monogramm.github.io/recod_erpnext_design](https://monogramm.github.io/recod_erpnext_design).
+**Recod ERPNext Design** is an ERPNext application to provide new sample print formats and overall design for ERPNext.
 
-References:
+Check [recod_erpnext_design/docs/assets](https://github.com/Monogramm/recod_erpnext_design/tree/master/recod_erpnext_design/docs/assets) for the screenshots.
 
--   [Publish Your Project Documentation with GitHub Pages](https://github.blog/2016-08-22-publish-your-project-documentation-with-github-pages/)
+## Recod Print Formats
+
+**Recod ERPNext Design** bundles several print formats to complete Frappe / ERPNext default ones.
+To use them, you can simply select one when you wish to print or display the PDF of a document.
+
+You can also go to the "_Print Format_" and make it the default for a kind of document.
+
+## Recod Website
+
+**Recod ERPNext Design** also bundles several website themes.
+To use them, go to "_Website Settings_" and apply one of the available themes.
 
 ## Contributing
 
