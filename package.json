@@ -6,6 +6,7 @@
   "dependencies": {
     "cypress": "^3.1.4",
     "gitmoji-changelog": "^2.1.0",
+    "mem": "^6.1.0",
     "minimist": "^1.2.5",
     "remark-cli": "^7.0.1",
     "remark-lint": "^6.0.5",
