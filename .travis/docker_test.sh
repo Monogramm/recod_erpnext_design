@@ -101,8 +101,8 @@ if [ -f ./sites/.coverage ]; then
     echo "Unit Tests coverage report of '${FRAPPE_APP_TO_TEST}' app:"
     coverage report -m
 
-    #echo "Sending Unit Tests coverage of '${FRAPPE_APP_TO_TEST}' app to Coveralls..."
-    #coveralls -b "$(pwd)/apps/${FRAPPE_APP_TO_TEST}" -d "$(pwd)/sites/.coverage"
+    echo "Sending Unit Tests coverage of '${FRAPPE_APP_TO_TEST}' app to Coveralls..."
+    coveralls -b "$(pwd)/apps/${FRAPPE_APP_TO_TEST}" -d "$(pwd)/sites/.coverage"
 
     # TODO When frappe supports coverage report in XML format
     # https://github.com/frappe/frappe/issues/9696
