@@ -22,7 +22,8 @@ See GitHub Pages at [monogramm.github.io/recod_erpnext_design](https://monogramm
 ## :chart_with_upwards_trend: Changes
 
 All notable changes to this project will be documented in [CHANGELOG](./CHANGELOG.md) file.
-This CHANGELOG is generated with :heart: by [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog)
+This CHANGELOG is generated with :heart: by [gitmoji-changelog](https://github.com/frinyvonnick/gitmoji-changelog).
+
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## :bookmark: Roadmap
