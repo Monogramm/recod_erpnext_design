@@ -81,6 +81,7 @@ after_script:
   - sudo ln -sf "$home" '/home/frappe/frappe-bench/apps/recod_erpnext_design'
   # Copy and convert coverage to XML format
   - cp '/srv/erpnext/frappe/sites/.coverage' .coverage
+  - coverage report -m
   - coverage xml
   # Publish coverage to Coveralls
   - coveralls -b "$home" -d "$home/.coverage"
