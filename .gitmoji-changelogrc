@@ -2,6 +2,6 @@
   "project": {
     "name": "recod_erpnext_design",
     "description": "ERPNext application to provide new sample print formats and overall design for ERPNext.",
-    "version": "0.0.1"
+    "version": "1.0.0"
   }
 }

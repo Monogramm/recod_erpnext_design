@@ -1,29 +1,25 @@
 # Changelog
 
-<a name="0.0.1"></a>
+<a name="1.0.0"></a>
 
-## 0.0.1 (2020-03-13)
+## 1.0.0 (2020-05-20)
 
 ### Added
 
--   🎉 Initial commit \[[9801fb4](https://github.com/Monogramm/recod_erpnext_design/commit/9801fb450678c0a1f248f6cbf561a9426cab0f5f)]
+-   ✨ Recod website themes \[[31e760f](https://github.com/Monogramm/recod_erpnext_design/commit/31e760f4b379bc7da8af46434cba4f349f5c3ef4)]
+-   ✨ Recod print formats \[[92c4b8d](https://github.com/Monogramm/recod_erpnext_design/commit/92c4b8d9081e9fd3bbc37dd2e2f688e4afa28b6d)]
+-   🎉 Initialize template \[[78ca832](https://github.com/Monogramm/recod_erpnext_design/commit/78ca83233b94d8c581daf12ecd40057174876276)]
 
 ### Changed
 
--   💄 Change format for app name in doc \[[1337f4c](https://github.com/Monogramm/recod_erpnext_design/commit/1337f4c07c491f0f04b7ebfe22c96a4ede84f3fd)]
--   🍱 Change icon for Docs section in README \[[5adb9d4](https://github.com/Monogramm/recod_erpnext_design/commit/5adb9d4c56cc8e427cc77510b45eff01d0a9d12b)]
+-   🔧 Add erpnext to requirements \[[ba14531](https://github.com/Monogramm/recod_erpnext_design/commit/ba14531b54344ae72658a7d656e2c47d49b376c2)]
 
-### Security
+### Fixed
 
--   🔒 Upgrade minimist \[[e100935](https://github.com/Monogramm/recod_erpnext_design/commit/e100935077d117e780f4656f2ff5147bbab24c7d)]
+-   💚 Report coverage in travis \[[d8805a9](https://github.com/Monogramm/recod_erpnext_design/commit/d8805a925574ba245f1f1cbea0fe1b5bf2da0121)]
 
 ### Miscellaneous
 
--   Feature/new branch ([#1](https://github.com/Monogramm/recod_erpnext_design/issues/1)) \[[694fe5c](https://github.com/Monogramm/recod_erpnext_design/commit/694fe5c032af529aa960b00513bd9040715edf2c)]
--   Merge pull request [#2](https://github.com/Monogramm/recod_erpnext_design/issues/2) from codacy-badger/codacy-badge \[[3b6fa9a](https://github.com/Monogramm/recod_erpnext_design/commit/3b6fa9a46a252511da5ae27b49ee5e527c40c0bb)]
--   Add Codacy badge \[[6b1cea6](https://github.com/Monogramm/recod_erpnext_design/commit/6b1cea6e61d88c8d44f0ab7fd9004e51d8c364de)]
--   📝 Remove unused info in PR template \[[3ce39a6](https://github.com/Monogramm/recod_erpnext_design/commit/3ce39a659e2744801753168469e63b595c454126)]
--   📝 Update docs and add badge \[[3e03e6b](https://github.com/Monogramm/recod_erpnext_design/commit/3e03e6bf472e93cc0204965113bdcb4bb9a4660d)]
--   Set theme jekyll-theme-cayman \[[997edd0](https://github.com/Monogramm/recod_erpnext_design/commit/997edd01d6212271460c49a8b72f4605241a55e3)]
--   📝 Documentation directory \[[19b36b7](https://github.com/Monogramm/recod_erpnext_design/commit/19b36b77d804ae299d4cd2e0eac398d36e12f127)]
--   📝 Add changelog \[[821a537](https://github.com/Monogramm/recod_erpnext_design/commit/821a53726fc81b88b534e3a55e6c972fa7793a52)]
+-   📝 Improve Github and Frappe app docs \[[fdb502b](https://github.com/Monogramm/recod_erpnext_design/commit/fdb502b6124399e3e1be6156de01bebcadf455d2)]
+-   📝 Frappe app documentation \[[ca52dd9](https://github.com/Monogramm/recod_erpnext_design/commit/ca52dd9974d8d806a2025d099481bdbbcc4b3536)]
+-   Initial commit \[[c528584](https://github.com/Monogramm/recod_erpnext_design/commit/c528584e9fb1c452c5279b066184ab1d35800a1b)]
