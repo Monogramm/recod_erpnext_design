@@ -40,6 +40,24 @@ To use them, go to "_Website Settings_" and apply one of the available themes.
 
 ![Recod Website Dark Theme](./assets/recod_website_theme_dark.jpg "Recod Dark Theme Header")
 
+## Terms and Conditions
+
+### 20-30-50 by bank transfer
+
+![20-30-50](./assets/terms_and_conditions_20-30-50-by-bank-transfer.png "20-30-50 by bank transfer")
+
+### On delivery
+
+![Terms and conditions on delivery](./assets/terms_and_conditions_on_delivery.png "Terms and conditions on delivery")
+
+### On due date
+
+![On due date](./assets/terms_and_conditions_on_due_date.png "On due date")
+
+### On receipt
+
+![On receipt](./assets/terms_and_conditions_on_receipt.png "On receipt")
+
 ## License
 
 Copyright © 2020 [Monogramm](https://github.com/Monogramm).<br />

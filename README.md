@@ -14,6 +14,7 @@
 ## Recod ERPNext Design
 
 > :alembic: ERPNext application to provide new sample print formats and overall design for ERPNext.
+> We used **[Termsfeed](https://app.termsfeed.com/)** services for generate Terms and conditions
 
 ## :blue_book: Docs
 
