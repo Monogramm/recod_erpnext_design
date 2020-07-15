@@ -1,5 +1,25 @@
 # Changelog
 
+<a name="1.1.0"></a>
+
+## 1.1.0 (2020-07-15)
+
+### Added
+
+-   📈 Send coverage from docker \[[182b22b](https://github.com/Monogramm/recod_erpnext_design/commit/182b22b1802d0b56963ae60da872797a113fb7b1)]
+
+### Changed
+
+-   💄 Beautify Print Formats and add Terms And conditions ([#4](https://github.com/Monogramm/recod_erpnext_design/issues/4)) \[[060a4d7](https://github.com/Monogramm/recod_erpnext_design/commit/060a4d786d152c8ff815cab4a0eb774aafaba98a)]
+
+### Fixed
+
+-   💚 Upgrade Travis linux to 18.04 \[[839e9b8](https://github.com/Monogramm/recod_erpnext_design/commit/839e9b8bdb6cbcc607a58223aed90816496d7a58)]
+
+### Security
+
+-   🔒 Upgrade mem dependency \[[6f0886a](https://github.com/Monogramm/recod_erpnext_design/commit/6f0886aeae3aaafb7e40316132ab6dc23c051438)]
+
 <a name="1.0.0"></a>
 
 ## 1.0.0 (2020-05-20)
