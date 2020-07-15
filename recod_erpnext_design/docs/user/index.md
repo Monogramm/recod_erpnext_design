@@ -42,21 +42,27 @@ To use them, go to "_Website Settings_" and apply one of the available themes.
 
 ## Terms and Conditions
 
-### 20-30-50 by bank transfer
+### Payment 20/30/50 by bank transfer
 
-![20-30-50](./assets/terms_and_conditions_20-30-50-by-bank-transfer.png "20-30-50 by bank transfer")
+![20-30-50 screenshot](./assets/terms_and_conditions_20-30-50-by-bank-transfer.png "20-30-50 by bank transfer")
 
-### On delivery
+### Payment on delivery by bank transfer
 
-![Terms and conditions on delivery](./assets/terms_and_conditions_on_delivery.png "Terms and conditions on delivery")
+![On delivery screenshot](./assets/terms_and_conditions_on_delivery.png "Terms and conditions on delivery")
 
-### On due date
+### Payment on due date by bank transfer
 
-![On due date](./assets/terms_and_conditions_on_due_date.png "On due date")
+![On due date screenshot](./assets/terms_and_conditions_on_due_date.png "On due date")
 
-### On receipt
+### Payment on receipt by bank transfer
 
-![On receipt](./assets/terms_and_conditions_on_receipt.png "On receipt")
+![On receipt screenshot](./assets/terms_and_conditions_on_receipt.png "On receipt")
+
+### Termsfeed
+
+> We used **[Termsfeed](https://app.termsfeed.com/)** services to generate the following Terms and conditions.
+
+**TODO**
 
 ## License
 
