@@ -53,9 +53,7 @@ When installing Frappe app, the following python requirements will be installed:
 
 ## :rocket: Usage
 
-How to use this application:
-
-Use Recod print formats, website themes, etc...
+How to use this application improve ERPNext print formats, website themes, etc...
 
 <!--
 [TODO] If project is deployed to DockerHub:

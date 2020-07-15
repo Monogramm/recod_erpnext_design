@@ -40,6 +40,30 @@ To use them, go to "_Website Settings_" and apply one of the available themes.
 
 ![Recod Website Dark Theme](./assets/recod_website_theme_dark.jpg "Recod Dark Theme Header")
 
+## Terms and Conditions
+
+### Payment 20/30/50 by bank transfer
+
+![20-30-50 screenshot](./assets/terms_and_conditions_20-30-50-by-bank-transfer.png "20-30-50 by bank transfer")
+
+### Payment on delivery by bank transfer
+
+![On delivery screenshot](./assets/terms_and_conditions_on_delivery.png "Terms and conditions on delivery")
+
+### Payment on due date by bank transfer
+
+![On due date screenshot](./assets/terms_and_conditions_on_due_date.png "On due date")
+
+### Payment on receipt by bank transfer
+
+![On receipt screenshot](./assets/terms_and_conditions_on_receipt.png "On receipt")
+
+### Termsfeed
+
+> We used **[Termsfeed](https://app.termsfeed.com/)** services to generate the following Terms and conditions.
+
+**TODO**
+
 ## License
 
 Copyright © 2020 [Monogramm](https://github.com/Monogramm).<br />
