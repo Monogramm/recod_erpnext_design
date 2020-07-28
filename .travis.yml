@@ -108,6 +108,7 @@ jobs:
     - env: VERSION=13 VARIANT=debian DATABASE=postgres
     - env: VERSION=13 VARIANT=debian-slim DATABASE=mariadb
     - env: VERSION=13 VARIANT=debian-slim DATABASE=postgres
+    # Stop supporting Frappe 10 and Python 2
     - env: VERSION=10 VARIANT=alpine DATABASE=mariadb
     - env: VERSION=10 VARIANT=debian DATABASE=mariadb
     - env: VERSION=10 VARIANT=debian-slim DATABASE=mariadb
