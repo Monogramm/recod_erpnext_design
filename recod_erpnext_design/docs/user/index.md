@@ -39,7 +39,7 @@ You can also go to the "_Print Format_" and make it the default for a kind of do
 
 ![Recod Request for Quotation](./assets/recod_print_format_request_for_quotation.png "Recod Request for Quotation")
 
-### Recod Request for Quotation
+### Recod Sales Order
 
 ![Recod Sales Order](./assets/recod_print_format_sales_order.png "Recod Sales Order")
 
