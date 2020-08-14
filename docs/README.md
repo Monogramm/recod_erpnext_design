@@ -4,6 +4,8 @@
 
 Check [recod_erpnext_design/docs/assets](https://github.com/Monogramm/recod_erpnext_design/tree/master/recod_erpnext_design/docs/assets) for the screenshots.
 
+For the user guide and technical documentation, check the Frappe [app documentation](https://github.com/Monogramm/recod_erpnext_design/blob/master/recod_erpnext_design/docs) or compile it locally using [recod_frappe_devtools](https://github.com/Monogramm/recod_frappe_devtools).
+
 ## Recod Print Formats
 
 **Recod ERPNext Design** bundles several print formats to complete Frappe / ERPNext default ones.
