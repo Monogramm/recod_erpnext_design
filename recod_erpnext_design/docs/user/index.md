@@ -27,6 +27,22 @@ You can also go to the "_Print Format_" and make it the default for a kind of do
 
 ![Recod Salary Slip](./assets/recod_print_format_salary_slip.png "Recod Salary Slip")
 
+### Recod Delivery Note
+
+![Recod Delivery Note](./assets/recod_print_format_delivery_note.png "Recod Delivery Note")
+
+### Recod Purchase Order
+
+![Recod Purchase Order](./assets/recod_print_format_purchase_order.png "Recod Purchase Order")
+
+### Recod Request for Quotation
+
+![Recod Request for Quotation](./assets/recod_print_format_request_for_quotation.png "Recod Request for Quotation")
+
+### Recod Sales Order
+
+![Recod Sales Order](./assets/recod_print_format_sales_order.png "Recod Sales Order")
+
 ## Recod Website
 
 **Recod ERPNext Design** also bundles several website themes.
