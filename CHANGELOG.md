@@ -1,5 +1,31 @@
 # Changelog
 
+<a name="1.2.0"></a>
+
+## 1.2.0 (2020-09-20)
+
+### Added
+
+-   ✨ Add Recod Design for doctypes ([#6](https://github.com/Monogramm/recod_erpnext_design/issues/6)) \[[7174383](https://github.com/Monogramm/recod_erpnext_design/commit/7174383e36061062dda5fcca09ff7c598d754569)]
+
+### Changed
+
+-   🎨 Remove background from existing doctypes ([#5](https://github.com/Monogramm/recod_erpnext_design/issues/5)) \[[fc2368f](https://github.com/Monogramm/recod_erpnext_design/commit/fc2368fbc31517a96f31a43780db3a0b751e474b)]
+-   🔧 Improve configuration \[[884f7f8](https://github.com/Monogramm/recod_erpnext_design/commit/884f7f883fa754fb05b5034ba7eb1d1620385599)]
+
+### Fixed
+
+-   💚 Stop supporting Frappe 10 and Python 2 \[[c950fb0](https://github.com/Monogramm/recod_erpnext_design/commit/c950fb02367e2ec79be6398db763abca6a125a6f)]
+-   💚 Allow tests on all sites \[[6deed4b](https://github.com/Monogramm/recod_erpnext_design/commit/6deed4bb62f861125180feb050fdce512c020927)]
+
+### Security
+
+-   🔒 Fix potential security vulnerabilities \[[dc74534](https://github.com/Monogramm/recod_erpnext_design/commit/dc745347d9eec4857d61f8b94cfac6d78f73a865)]
+
+### Miscellaneous
+
+-   📝 Add links to generate Frappe docs. \[[534eb35](https://github.com/Monogramm/recod_erpnext_design/commit/534eb35cde22f8e1fe14dc68e3889f4b2c6c0ca1)]
+
 <a name="1.1.0"></a>
 
 ## 1.1.0 (2020-07-15)
